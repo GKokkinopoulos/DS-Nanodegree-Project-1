@@ -25,5 +25,5 @@ The findings of this investigation have been posted in Medium. Please see link h
 
 ## Licensing, Authors, Acknowledgements
 
-The Licensing for this data as well as other relevant information (description, codes, discussion etc.) can be found in the Kaggle link here: Seattle Airbnb Open Data | Kaggle
+The Licensing for this data as well as other relevant information (description, codes, discussion etc.) can be found in the Kaggle link here: [Seattle Airbnb Open Data | Kaggle]
 
