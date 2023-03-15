@@ -21,7 +21,7 @@ There is one notebook here which was used to explore through the data and answer
 
 ## Results
 
-The findings of this investigation have been posted in Medium. Please see link here: 
+The findings of this investigation have been posted in Medium. Please see link here: (https://medium.com/@georgios.kokkinopoulos/what-you-need-to-know-about-airbnb-in-seattle-as-an-owner-or-a-visitor-2a44b4b382b3)
 
 ## Licensing, Authors, Acknowledgements
 
