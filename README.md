@@ -5,7 +5,7 @@ Project about writing a data science blog spot
 
 The code uses Minconda (similar to Anaconda) and the libraries which are already installed in it
 
-# Motivation
+## Motivation
 
 The point of interest in this project is around Seattle Airbnb data from 2009 to 2015 which I will use in order to investigate on the following:
 
